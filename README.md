@@ -6,7 +6,7 @@ Olá! Meu nome é Arthur Pavão Pereira, tenho 19 anos e sou natural do Maranhã
 
 
   <table><details open>
-  <summary><h2>🤖 Languages and Tools</h2></summary>
+  <summary><h2>🤖📙 Languages and Tools</h2></summary>
 <img 
     align="left" 
     alt="HTML"
@@ -60,7 +60,7 @@ Olá! Meu nome é Arthur Pavão Pereira, tenho 19 anos e sou natural do Maranhã
 <br/>
 
   <table><details open>
-  <summary><h2>🤖 Estatisticas</h2></summary>
+  <summary><h2>🤖📊 My Statistics</h2></summary>
     <img 
     align="left" 
     alt="Github status" 
@@ -70,10 +70,26 @@ Olá! Meu nome é Arthur Pavão Pereira, tenho 19 anos e sou natural do Maranhã
     src=https://github-readme-stats.vercel.app/api?username=arthurpavaodev&show_icons=true&theme=tokyonight
 />
     <img 
-    align="left" 
+    align="cent" 
     alt="Github status" 
     title="Github status"
     heigth="500px" 
     style="padding-right: 10px;" 
     src=https://github-readme-stats.vercel.app/api/top-langs/?username=arthurpavaodev&theme=tokyonight&layout=compact
 />
+
+<br/>
+<br/>
+
+  <table><details open>
+  <summary><h2>🤖🌐 Talk to me</h2></summary>
+<p align="center">
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href=https://www.linkedin.com/in/arthur-pavao-07b390327><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href=https://discord.com/channels/@me alt="Discord" title="Discord Chama"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.instagram.com/arthurpava0/"><img width="32px" alt="instagram" title="Chama no direct" src="https://i.imgur.com/PpLeD3K.png"/></a>
+<!--   &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a> -->
+</p>
