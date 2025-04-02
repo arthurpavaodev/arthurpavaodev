@@ -5,7 +5,7 @@
 Olá! Meu nome é Arthur Pavão Pereira, tenho 19 anos e sou natural do Maranhão. Atualmente, estou cursando Engenharia de Software na UNDB, onde venho aprofundando meus conhecimentos sobre desenvolvimento, inovação e soluções tecnológicas de ponta. Minha paixão por tecnologia vai muito além do código: sou fascinado pela lógica, pela mecânica dos sistemas e pela forma como pequenas inovações podem transformar o mundo. Estou sempre em busca de desafios que me permitam aprender, crescer e contribuir para o futuro da tecnologia. O meu instragram é "[Arthur Pavão](https://www.instagram.com/arthurpava0/)" e também tô no linkedin"[Arthur Pavão](https://www.linkedin.com/in/arthur-pavao-07b390327/)"
 
 
-  <table><details open>
+  <table><details close>
   <summary><h2>🤖📙 My Languages</h2></summary>
 <img 
     align="left" 
@@ -57,7 +57,7 @@ Olá! Meu nome é Arthur Pavão Pereira, tenho 19 anos e sou natural do Maranhã
 />
 <br/>
 
- <table><details open>
+ <table><details close>
   <summary><h2>🤖📘 My Tools</h2></summary>
 <img 
     align="left" 
@@ -88,9 +88,9 @@ Olá! Meu nome é Arthur Pavão Pereira, tenho 19 anos e sou natural do Maranhã
 
 
 <table>
-<details open>
+<details close>
   <summary><h2>🤖🌐 Talk to me</h2></summary>
-<p align="center">
+<p align="Center">
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href=https://www.linkedin.com/in/arthur-pavao-07b390327><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
