@@ -96,7 +96,7 @@ Olá! Meu nome é Arthur Pavão Pereira, tenho 19 anos e sou natural do Maranhã
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href=https://discord.com/channels/@me alt="Discord" title="Discord Chama"><img width="32px" src="https://cdn-icons-png.flaticon.com/512/5968/5968756.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.instagram.com/arthurpava0/"><img width="32px" alt="instagram" title="Chama no direct" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png"/></a>
+  <a href=https://www.instagram.com/pavao_company/><img width="32px" alt="instagram" title="Chama no direct" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png"/></a>
 <!--   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a> -->
 </p>
