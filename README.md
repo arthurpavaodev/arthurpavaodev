@@ -122,5 +122,3 @@ Olá! Meu nome é Arthur Pavão Pereira, tenho 19 anos e sou natural do Maranhã
     height="100"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurpavaodev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langes_count=9"
 />
-</p>
-![Snake animation](https://github.com/arthurpavaodev)
