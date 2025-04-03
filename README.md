@@ -4,9 +4,11 @@
 
 Olá! Meu nome é Arthur Pavão Pereira, tenho 19 anos e sou natural do Maranhão. Atualmente, estou cursando Engenharia de Software na UNDB, onde venho aprofundando meus conhecimentos sobre desenvolvimento, inovação e soluções tecnológicas de ponta. Minha paixão por tecnologia vai muito além do código: sou fascinado pela lógica, pela mecânica dos sistemas e pela forma como pequenas inovações podem transformar o mundo. Estou sempre em busca de desafios que me permitam aprender, crescer e contribuir para o futuro da tecnologia. O meu instragram é "[Arthur Dev](https://www.instagram.com/pavao_company/)" e também tô no linkedin"[Arthur Pavão](https://www.linkedin.com/in/arthur-pavao-07b390327/)"
 
+---
+<br/>
 
-  <table><details close>
-  <summary><h2>🤖📙 My Languages</h2></summary>
+<table><details close>
+<summary><h2>🤖📙 My Languages</h2></summary>
 <img 
     align="left" 
     alt="HTML"
@@ -56,6 +58,7 @@ Olá! Meu nome é Arthur Pavão Pereira, tenho 19 anos e sou natural do Maranhã
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 <br/>
+<br/>
 
  <table><details close>
   <summary><h2>🤖📘 My Tools</h2></summary>
@@ -85,7 +88,7 @@ Olá! Meu nome é Arthur Pavão Pereira, tenho 19 anos e sou natural do Maranhã
 />
 
 <br/>
-
+<br/>
 
 <table>
 <details close>
@@ -97,6 +100,26 @@ Olá! Meu nome é Arthur Pavão Pereira, tenho 19 anos e sou natural do Maranhã
   <a href=https://discord.com/channels/@me alt="Discord" title="Discord Chama"><img width="32px" src="https://cdn-icons-png.flaticon.com/512/5968/5968756.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href=https://www.instagram.com/pavao_company/><img width="32px" alt="instagram" title="Chama no direct" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png"/></a>
-<!--   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a> -->
+
+</p>
+
+<br/>
+
+ <table><details open>
+  <summary><h2>🤖📊 My Statistics</h2></summary>
+
+<p>
+    <img 
+    align= "left"
+    alt="Github Status"
+    height="200"
+    style="padding-right: 10px;"
+    src="https://github-readme-stats.vercel.app/api?username=arthurpavaodev&show_icons=true&theme=tokyonight&include_all_comits=True&locale=pt-br"
+/>
+  <img 
+    align= "left"
+    alt="Github Status"
+    height="200"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurpavaodev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langes_count=9"
+/>
 </p>
