@@ -1,5 +1,7 @@
 # 👑 Arthur Pavão
 
+![snake gif](https://github.com/arthurpavaodev/arthurpavaodev/blob/output/github-contribution-grid-snake.gif)
+
 **`Desenvolvedor Backend`**
 
 Olá! Meu nome é Arthur Pavão Pereira, tenho 19 anos e sou natural do Maranhão. Atualmente, estou cursando Engenharia de Software na UNDB, onde venho aprofundando meus conhecimentos sobre desenvolvimento, inovação e soluções tecnológicas de ponta. Minha paixão por tecnologia vai muito além do código: sou fascinado pela lógica, pela mecânica dos sistemas e pela forma como pequenas inovações podem transformar o mundo. Estou sempre em busca de desafios que me permitam aprender, crescer e contribuir para o futuro da tecnologia. O meu instragram é "[Arthur Dev](https://www.instagram.com/pavao_company/)" e também tô no linkedin"[Arthur Pavão](https://www.linkedin.com/in/arthur-pavao-07b390327/)"
