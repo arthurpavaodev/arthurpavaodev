@@ -137,5 +137,4 @@ Sou um entusiasta da tecnologia e da mecânica, apaixonado pela lógica dos sist
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurpavaodev&layout=compact&theme=tokyonight&custom_title=Tecnologias&langs_count=9"
 />
 
----
 ![snake gif](https://github.com/arthurpavaodev/arthurpavaodev/blob/output/github-contribution-grid-snake.gif)
