@@ -28,6 +28,7 @@ Sou um entusiasta da tecnologia e da mecânica, apaixonado pela lógica dos sist
 <br/>
 
 <summary><h2>🤖📙 My Languages</h2></summary>
+
 <img 
     align="left" 
     alt="HTML"
@@ -80,6 +81,7 @@ Sou um entusiasta da tecnologia e da mecânica, apaixonado pela lógica dos sist
 <br/>
 
 <summary><h2>🤖📘 My Tools</h2></summary>
+
 <img 
     align="left" 
     alt="Figma"
@@ -125,7 +127,7 @@ Sou um entusiasta da tecnologia e da mecânica, apaixonado pela lógica dos sist
 <img 
     align="left" 
     alt="Github Stats" 
-    height="200"
+    height="150"
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=arthurpavaodev&show_icons=true&theme=tokyonight&locale=pt-br"
 />
@@ -136,5 +138,7 @@ Sou um entusiasta da tecnologia e da mecânica, apaixonado pela lógica dos sist
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurpavaodev&layout=compact&theme=tokyonight&custom_title=Tecnologias&langs_count=9"
 />
+
+<br/>
 
 ![snake gif](https://github.com/arthurpavaodev/arthurpavaodev/blob/output/github-contribution-grid-snake.gif)
