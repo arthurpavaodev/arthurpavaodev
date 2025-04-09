@@ -3,24 +3,24 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi!+🖖;+Sou+Arthur+Pavão!👋;Desenvolvedor+Back-end+🤖" />
 </h1>
 
-**`👨‍💻 Apresentação`**
+## **`👨‍💻 Apresentação`**
 
 Olá! Meu nome é Arthur Pavão Pereira, tenho 19 anos e sou natural do Maranhão. Desde pequeno, sempre fui movido pela curiosidade e pela vontade de entender como as coisas funcionam — o que naturalmente me levou ao universo da tecnologia. Hoje, minha paixão se expressa tanto no mundo do código quanto na lógica por trás dos sistemas e mecanismos.
 
 ---
-**`🎓 O que estou cursando e fazendo`**
+## **`🎓 O que estou cursando e fazendo`**
 
 Atualmente, estou cursando Engenharia de Software na UNDB. Ao longo da graduação, venho me aprofundando em áreas como desenvolvimento de software, inovação tecnológica e soluções voltadas para problemas reais. Além da faculdade, também estou fazendo um curso de programação no InCode, onde venho reforçando minhas habilidades práticas, aprendendo novas tecnologias e participando de desafios que simulam o mercado de trabalho.
 
 ---
-**`💻 Projetos recentes`**
+## **`💻 Projetos recentes`**
 
 📚 Biblioteca Virtual: Sistema de cadastro e gerenciamento de livros, com funcionalidades como busca, empréstimo e devolução.
 
 💱 Conversor de Moedas: Ferramenta prática que converte valores entre diferentes moedas com base em taxas atualizadas.
 
 ---
-**`🧠 Um pouco mais sobre mim`**
+## **`🧠 Um pouco mais sobre mim`**
 
 Sou um entusiasta da tecnologia e da mecânica, apaixonado pela lógica dos sistemas e pelo poder que pequenas ideias têm de transformar realidades. Gosto de desafios e acredito que o aprendizado contínuo é o melhor caminho para inovar e causar impacto positivo no mundo. No meu tempo livre, gosto de jogar, ouvir música e ler são momentos que me ajudam a relaxar, buscar inspiração e manter o equilíbrio entre estudo, trabalho e lazer.
 
@@ -132,7 +132,7 @@ Sou um entusiasta da tecnologia e da mecânica, apaixonado pela lógica dos sist
 <img 
     align="left" 
     alt="Github Stats" 
-    height="200"
+    height="150"
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurpavaodev&layout=compact&theme=tokyonight&custom_title=Tecnologias&langs_count=9"
 />
