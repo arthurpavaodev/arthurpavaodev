@@ -5,7 +5,7 @@
 
 ## **`👨‍💻 Apresentação`**
 
-Olá! Meu nome é Arthur Pavão Pereira, tenho 19 anos e sou natural do Maranhão. Desde pequeno, sempre fui movido pela curiosidade e pela vontade de entender como as coisas funcionam — o que naturalmente me levou ao universo da tecnologia. Hoje, minha paixão se expressa tanto no mundo do código quanto na lógica por trás dos sistemas e mecanismos.
+Olá! Meu nome é Arthur Pavão Pereira, tenho 19 anos e sou natural do Maranhão. Desde pequeno, sempre fui movido pela curiosidade e pela vontade de entender como as coisas funcionam o que naturalmente me levou ao universo da tecnologia. Hoje, minha paixão se expressa tanto no mundo do código quanto na lógica por trás dos sistemas e mecanismos.
 
 ---
 ## **`🎓 O que estou cursando e fazendo`**
